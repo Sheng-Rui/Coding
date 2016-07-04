@@ -1,1 +1,1 @@
-# Coding
+print "I love you!"
